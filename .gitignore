@@ -21,4 +21,9 @@ models/
 Thumbs.db
 .vscode/
 .idea/
-*.log
+*.lognode_modules
+/build
+/.svelte-kit
+/package
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*

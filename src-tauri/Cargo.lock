@@ -818,7 +818,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "dont-say-it-starter"
+name = "dont-say-it"
 version = "0.1.0"
 dependencies = [
  "serde",

@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "dont-say-it-starter",
+  "productName": "Dont Say It",
   "version": "0.1.0",
   "identifier": "io.github.spearslogan36.dontsayit",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "dont-say-it-starter",
+        "title": "Don't Say It",
         "width": 800,
         "height": 600
       }
